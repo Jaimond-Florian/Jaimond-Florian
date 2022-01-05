@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimond-florian&label=Profile%20views&color=0e75b6&style=flat" alt="jaimond-florian" /> </p>
+<p align="left"> <img src="https://github.com/Jaimond-Florian/Jaimond-Florian/blob/main/img/Me2022.jpg?raw=true" alt="jaimond-florian" /> </p>
 
 - 🔭 I’m currently working on **Web Developer title**
 
