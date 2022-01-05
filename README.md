@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<p align="center"> <img src="https://github.com/Jaimond-Florian/Jaimond-Florian/blob/main/img/florian.j.jpg?raw=true" alt="jaimond-florian" /> </p>
+<p align="center"> <img src="https://github.com/Jaimond-Florian/Jaimond-Florian/blob/main/img/florianj.jpg?raw=true" alt="jaimond-florian" /> </p>
 
 - 🔭 I’m currently working on **Web Developer title**
 
