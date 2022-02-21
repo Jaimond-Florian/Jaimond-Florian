@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <p align="center"> <img src="https://github.com/Jaimond-Florian/Jaimond-Florian/blob/main/img/florianJ.jpg?raw=true" alt="jaimond-florian"  height="350" width="350"/> </p>
 
-- 🔭 I’m currently working on **Web Developer title**
-
-- 🌱 I’m currently learning **Typescript**
+- 🔭 I’m currently working on **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
